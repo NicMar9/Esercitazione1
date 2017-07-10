@@ -15,7 +15,7 @@ public class Esercizioparentchild {
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
 
-		
+	
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\nmartone\\Desktop\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 

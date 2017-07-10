@@ -12,7 +12,6 @@ public class Searchassioma {
 		// TODO Auto-generated method stub
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\nmartone\\Desktop\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
-
 		
 		driver.get("http://analisi.assioma.info:8090/");
 		driver.manage().window().maximize();
